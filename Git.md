@@ -2,7 +2,7 @@
 
 ### 提交
 
-### #### git提交流程
+#### git 提交流程
 
 Git add
 
@@ -20,7 +20,7 @@ Git rebase
 
  ### 分支
 
-### #### 开辟分支
+#### 开辟分支
 
 开辟分支issue-10
 
@@ -38,9 +38,7 @@ Git rebase
 
 7.git push origin issue-10:issue-10
 
-
-
-### #### 合并分支
+#### 合并分支
 
 将分支 issue-10 合并到分支 origin/master 上面:
 
@@ -56,9 +54,7 @@ Git rebase
 
 至此，issue-10 会 merge 到分支 master 上，issue-10 可删除。
 
-
-
-### #### git  修改分支名称
+#### git 修改分支名称
 
 <https://www.jianshu.com/p/cc740394faf5>
 
@@ -70,7 +66,9 @@ Git rebase
 
 ### 设置
 
-### #### 全局设置
+
+
+#### 全局设置
 
 Git global setup
 
@@ -82,7 +80,7 @@ git config --global user.email "xuzhuyun@qq.com"
 
 ### 仓库
 
-### #### 创建仓库
+#### 创建仓库
 
 #### **1.已经存在仓库**
 
