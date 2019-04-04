@@ -82,7 +82,7 @@ git config --global user.email "xuzhuyun@qq.com"
 
 #### 创建仓库
 
-#### **1.已经存在仓库**
+#### **1.克隆远程仓库**
 
 git clone git@git.fcbox.com:IB/ITG/qiniu-log-helper.git
 
@@ -98,7 +98,7 @@ touch README.md
 
  
 
-#### **2.已经存在本地项目**
+#### **2.将本地项目绑定远程仓库**
 
 cd existing_folder
 
