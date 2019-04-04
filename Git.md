@@ -110,8 +110,14 @@ cd existing_folder
 
 **git commit -m "Initial commit"**
 
+新创建的那个仓库里面的README文件不在本地仓库目录中，这时我们可以通过以下命令先将内容合并以下：
+**git pull --rebase origin master **
+
+等远程仓库里面有了内容之后，下次再从本地库上传内容的时候只需下面这样就可以了
 **git push -u origin master**
 
+参考链接：
+https://www.cnblogs.com/smfx1314/p/8426115.html
  
 
 ### Tag
