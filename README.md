@@ -12,3 +12,5 @@ https://play.kotlinlang.org/byExample/overview
 #### Android基础知识、Android进阶知识、Android自定义View相关、面试相关的知识
 https://github.com/linsir6/AndroidNote
 
+#### Android 性能优化
+https://blog.csdn.net/jdfkldjlkjdl/article/details/89495181
