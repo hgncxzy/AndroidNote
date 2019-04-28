@@ -14,3 +14,10 @@ https://github.com/linsir6/AndroidNote
 
 #### Android 性能优化
 https://blog.csdn.net/jdfkldjlkjdl/article/details/89495181
+
+#### Android 单元测试与测试框架、常见的方案比较
+https://www.jianshu.com/p/aa51a3e007e2
+https://www.jianshu.com/p/925191464389
+https://github.com/mockk/mockk (kotlin 测试库，mockito 在 kotlin 测试有限制，此库替代 mockito 测试库)
+
+
