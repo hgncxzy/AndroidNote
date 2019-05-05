@@ -9,6 +9,9 @@ https://hndeveloper.github.io/2017/github-android-ui.html
 #### kotlin 资料
 https://play.kotlinlang.org/byExample/overview
 
+A family of small Kotlin libraries for delightful Android development
+https://github.com/LouisCAD/Splitties
+
 #### Android基础知识、Android进阶知识、Android自定义View相关、面试相关的知识
 https://github.com/linsir6/AndroidNote
 
