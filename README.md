@@ -16,6 +16,10 @@ https://github.com/LouisCAD/Splitties
 #### Android基础知识、Android进阶知识、Android自定义View相关、面试相关的知识
 https://github.com/linsir6/AndroidNote
 
+https://github.com/CharonChui/AndroidNote
+
+https://github.com/leavesC/Java_Kotlin_Android_Learn
+
 #### Android 性能优化
 https://blog.csdn.net/jdfkldjlkjdl/article/details/89495181
 
