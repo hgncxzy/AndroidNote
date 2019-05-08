@@ -7,6 +7,8 @@
 - **UI**
 
   - https://hndeveloper.github.io/2017/github-android-ui.html （GitHub上受欢迎的 Android UI Library ）
+    - 下拉刷新，上拉加载
+      - https://github.com/genius158/PullRefreshLayout
 
 - **kotlin 资料**
 
@@ -21,6 +23,7 @@
   - https://github.com/CharonChui/AndroidNote
 
   - https://github.com/leavesC/Java_Kotlin_Android_Learn
+  - https://github.com/wildma/AndroidNotes
 
 - **Android 性能优化**
 
