@@ -1,33 +1,37 @@
-# DevNote
+# Android 开发笔记
 
 ### Android 资料
 
-#### GitHub上受欢迎的 Android UI Library 
 
-https://hndeveloper.github.io/2017/github-android-ui.html
 
-#### kotlin 资料
-https://play.kotlinlang.org/byExample/overview
+- **UI**
 
-A family of small Kotlin libraries for delightful Android development
+  - https://hndeveloper.github.io/2017/github-android-ui.html （GitHub上受欢迎的 Android UI Library ）
 
-https://github.com/LouisCAD/Splitties
+- **kotlin 资料**
 
-#### Android基础知识、Android进阶知识、Android自定义View相关、面试相关的知识
-https://github.com/linsir6/AndroidNote
+  - https://play.kotlinlang.org/byExample/overview
 
-https://github.com/CharonChui/AndroidNote
+  - https://github.com/LouisCAD/Splitties (A family of small Kotlin libraries for delightful Android development)
 
-https://github.com/leavesC/Java_Kotlin_Android_Learn
+- **其他人的 Android 笔记**
 
-#### Android 性能优化
-https://blog.csdn.net/jdfkldjlkjdl/article/details/89495181
+  - https://github.com/linsir6/AndroidNote
 
-#### Android 单元测试与测试框架、常见的方案比较
-https://www.jianshu.com/p/aa51a3e007e2
+  - https://github.com/CharonChui/AndroidNote
 
-https://www.jianshu.com/p/925191464389
+  - https://github.com/leavesC/Java_Kotlin_Android_Learn
 
-https://github.com/mockk/mockk (kotlin 测试库，mockito 在 kotlin 测试有限制，此库替代 mockito 测试库)
+- **Android 性能优化**
+
+  - https://blog.csdn.net/jdfkldjlkjdl/article/details/89495181
+
+- **Android 测试**
+
+  - https://www.jianshu.com/p/aa51a3e007e2
+
+  - https://www.jianshu.com/p/925191464389
+
+  - https://github.com/mockk/mockk (kotlin 测试库，mockito 在 kotlin 测试有限制，此库替代 mockito 测试库)
 
 
