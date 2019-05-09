@@ -37,4 +37,14 @@
 
   - https://github.com/mockk/mockk (kotlin 测试库，mockito 在 kotlin 测试有限制，此库替代 mockito 测试库)
 
+- **Android 架构**
+  - MVVM 架构
+    - https://github.com/mengjingbo/ViewModelAndLiveDataSample
+  - MVP 架构
+  - MVC 架构
 
+- **Android 架构组件**
+  - LifeCycle
+  - ViewModel
+  - LiveData
+  - DataBinding
