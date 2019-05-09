@@ -39,7 +39,8 @@
 
 - **Android 架构**
   - MVVM 架构
-    - https://github.com/mengjingbo/ViewModelAndLiveDataSample
+    - https://github.com/mengjingbo/ViewModelAndLiveDataSample java实现
+    - https://github.com/hgncxzy/ViewModelAndLiveDataSample    kotlin 实现
   - MVP 架构
   - MVC 架构
 
