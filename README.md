@@ -49,5 +49,5 @@
   - LiveData
   - DataBinding
   
-- **Git**
+### Git
   - Git 操作手册 https://github.com/hgncxzy/AndroidNote/blob/master/Git.md
