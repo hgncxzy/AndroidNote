@@ -6,18 +6,16 @@
 
 - **UI**
 
-  - https://hndeveloper.github.io/2017/github-android-ui.html （GitHub上受欢迎的 Android UI Library ）
+  - [GitHub上受欢迎的 Android UI Library](https://hndeveloper.github.io/2017/github-android-ui.html)
   - 下拉刷新，上拉加载
     - https://github.com/genius158/PullRefreshLayout
 
 - **kotlin 资料**
+  - [kotlin 官方实例](https://play.kotlinlang.org/byExample/overview)
 
-  - https://play.kotlinlang.org/byExample/overview
-
-  - https://github.com/LouisCAD/Splitties (A family of small Kotlin libraries for delightful Android development)
+  - [A family of small Kotlin libraries for delightful Android development](https://github.com/LouisCAD/Splitties)
 
 - **其他人的 Android 笔记**
-
   - https://github.com/linsir6/AndroidNote
 
   - https://github.com/CharonChui/AndroidNote
@@ -39,8 +37,8 @@
 
 - **Android 架构**
   - MVVM 架构
-    - https://github.com/mengjingbo/ViewModelAndLiveDataSample java实现
-    - https://github.com/hgncxzy/ViewModelAndLiveDataSample    kotlin 实现
+    - [java实现的 demo](https://github.com/mengjingbo/ViewModelAndLiveDataSample)
+    - [kotlin 实现的 demo](https://github.com/hgncxzy/ViewModelAndLiveDataSample    )
   - MVP 架构
   - MVC 架构
 
@@ -49,6 +47,19 @@
   - ViewModel
   - LiveData
   - DataBinding
-  
+- **Android 适配**
+  - [骚年你的屏幕适配方式该升级了!-今日头条适配方案]( https://www.jianshu.com/p/55e0fca23b4f?utm_campaign=maleskine&utm_content=note&utm_medium=seo_notes&utm_source=recommendation)
+  - [Android屏幕适配框架-(今日头条终极适配方案)]( https://www.jianshu.com/p/cd373f529bea?tdsourcetag=s_pctim_aiomsg)
+
 ### Git
-  - Git 操作手册 https://github.com/hgncxzy/AndroidNote/blob/master/Git.md
+  - [Git 操作手册](https://github.com/hgncxzy/AndroidNote/blob/master/Git.md)
+
+### 收藏
+
+- [鸿洋 github](https://github.com/hongyangAndroid?tab=repositories)
+- 
+
+
+
+
+

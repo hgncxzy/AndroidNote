@@ -131,7 +131,12 @@
 
 2. merge后，将production拉取到本地分支，然后打包，打tag(打 tag 在网页端操作)
 
- 
+ ### 常用 git 命令收藏
+
+```html
+![blockchain](https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/
+u=702257389,1274025419&fm=27&gp=0.jpg "区块链")
+```
 
  
 
