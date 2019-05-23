@@ -133,7 +133,7 @@
 
  ### 常用 git 命令收藏
 
-<image src="https://github.com/hgncxzy/AndroidNote/blob/master/images/Git常用命令速查表.jpg?raw=true" width="550px"/>
+<image src="https://github.com/hgncxzy/AndroidNote/blob/master/images/Git常用命令速查表.jpg?raw=true" width="750px"/>
 
  
 
