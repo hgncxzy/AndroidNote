@@ -133,10 +133,7 @@
 
  ### 常用 git 命令收藏
 
-```html
-![blockchain](https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/
-u=702257389,1274025419&fm=27&gp=0.jpg "区块链")
-```
+<image src="https://github.com/hgncxzy/AndroidNote/blob/master/images/Git常用命令速查表.jpg?raw=true" width="550px"/>
 
  
 
