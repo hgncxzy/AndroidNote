@@ -55,7 +55,7 @@
 
 - [骚年你的屏幕适配方式该升级了!-今日头条适配方案]( https://www.jianshu.com/p/55e0fca23b4f?utm_campaign=maleskine&utm_content=note&utm_medium=seo_notes&utm_source=recommendation)
 - [Android屏幕适配框架-(今日头条终极适配方案)]( https://www.jianshu.com/p/cd373f529bea?tdsourcetag=s_pctim_aiomsg)
-- [我整理的适配文档]()
+- [我整理的适配文档](https://github.com/hgncxzy/AndroidNote/blob/master/Android%E9%80%82%E9%85%8D%E9%97%AE%E9%A2%98.md)
 
 ### Git
   - [Git 操作手册](https://github.com/hgncxzy/AndroidNote/blob/master/Git.md)
