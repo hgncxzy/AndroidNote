@@ -64,6 +64,11 @@
 ### Git
   - [Git 操作手册](https://github.com/hgncxzy/AndroidNote/blob/master/Git.md)
 
+### Android 打包相关
+
+- [Android Studio 将Library打包成jar或aar包](https://blog.csdn.net/chengxu_hou/article/details/80136548)
+- [如何在Android Studio添加本地aar包引用](https://blog.csdn.net/github_27263697/article/details/79196273)
+
 ### 收藏
 
 - [鸿洋 github](https://github.com/hongyangAndroid?tab=repositories)
