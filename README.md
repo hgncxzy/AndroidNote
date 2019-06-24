@@ -62,7 +62,7 @@
 - [我整理的适配文档](https://github.com/hgncxzy/AndroidNote/blob/master/Android%E9%80%82%E9%85%8D%E9%97%AE%E9%A2%98.md)
 - [一种非常好用的 Android 屏幕适配——smallestWidth 限定符适配](https://www.jianshu.com/p/1302ad5a4b04)
 - [smallestWidth 方案中自动生成 dimens 文件的工具](https://github.com/hgncxzy/dimens_sw)
-- [一种非常好用的 Android 屏幕适配——smallestWidth 限定符适配](https://github.com/hgncxzy/ScreenAdaptation)
+- [一种非常好用的 Android 屏幕适配——smallestWidth 限定符适配 git 源码](https://github.com/hgncxzy/ScreenAdaptation)
 
 ### Git
   - [Git 操作手册](https://github.com/hgncxzy/AndroidNote/blob/master/Git.md)
