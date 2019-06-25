@@ -20,7 +20,18 @@
 
   如果没有冲突直接 git push
 
- 
+-  提交项目到新的Git地址
+
+  1. 修改命令 
+
+     git remote set-url origin [url] 
+
+     例如：Git remote set-url origin gitlab@gitlab.chumob.com:PHP/hasoffer.git
+
+  2. 先删后加
+
+     git remote rm origin 
+     git remote add origin [url]
 
  ### 分支
 

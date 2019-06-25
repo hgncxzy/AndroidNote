@@ -51,9 +51,15 @@
 ### Android 架构组件
 
 - LifeCycle
+
 - ViewModel
+
 - LiveData
+
 - DataBinding
+
+  1. [ DataBinding 系列教程](https://www.jianshu.com/p/53925ccb900e)
+
 
 ### Android 适配
 
