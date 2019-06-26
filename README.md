@@ -78,6 +78,9 @@
 - [Android Studio 将Library打包成jar或aar包](https://blog.csdn.net/chengxu_hou/article/details/80136548)
 - [如何在Android Studio添加本地aar包引用](https://blog.csdn.net/github_27263697/article/details/79196273)
 
+### Android app 更新
+- [一行代码快速实现app在线下载更新](https://github.com/hgncxzy/UpdateAppUtils)
+
 ### 收藏
 
 - [鸿洋 github](https://github.com/hongyangAndroid?tab=repositories)
