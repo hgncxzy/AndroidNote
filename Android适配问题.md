@@ -214,7 +214,7 @@ $$
 
 
 
-![img](https:////upload-images.jianshu.io/upload_images/689802-6db507f8665651a7?imageMogr2/auto-orient/strip%7CimageView2/2/w/494/format/webp)
+![img](https://github.com/hgncxzy/AndroidNote/blob/master/images/Android适配_img_3.png)
 
 #### 优点
 
@@ -226,17 +226,17 @@ $$
 
 
 
-![img](https:////upload-images.jianshu.io/upload_images/689802-786f6abb77edd4d4?imageMogr2/auto-orient/strip%7CimageView2/2/w/666/format/webp)
+![img](https://github.com/hgncxzy/AndroidNote/blob/master/images/Android适配_img_4.png)
 
 而这种 diemns 引用，在不同的 values-sw<N>dp 文件夹下的数值是不同的，比如 values-sw360dp 和 values-sw400dp,
 
 
 
-![img](https:////upload-images.jianshu.io/upload_images/689802-9fffc4b8d779edf5?imageMogr2/auto-orient/strip%7CimageView2/2/w/535/format/webp)
+![img](https://github.com/hgncxzy/AndroidNote/blob/master/images/Android适配_img_5.png)
 
 
 
-![img](https:////upload-images.jianshu.io/upload_images/689802-5bbab1e5442e4966?imageMogr2/auto-orient/strip%7CimageView2/2/w/530/format/webp)
+![img](https://github.com/hgncxzy/AndroidNote/blob/master/images/Android适配_img_6.png)
 
 当系统识别到手机的 smallestWidth 值时，就会自动去寻找和目标数据最近的资源文件的尺寸。
 
