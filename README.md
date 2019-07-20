@@ -80,6 +80,10 @@
 ### Android app 更新
 - [一行代码快速实现app在线下载更新](https://github.com/hgncxzy/UpdateAppUtils)
 
+### RxJava 
+
+1. [RxJava 详细教程](https://blog.csdn.net/carson_ho/column/info/17714)
+
 ### 收藏
 
 - [鸿洋 github](https://github.com/hongyangAndroid?tab=repositories)
