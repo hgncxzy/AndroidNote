@@ -52,7 +52,7 @@ $$
   ​       即，在 xhdpi 的密度下，1dp = 2px；在hdpi情况下，1dp = 1.5px；其他类推。
 
     - [x] 其实记住一点，dp 最终都要化为像素数量来衡量大小的，因为只有像素数量最直观。使用 dp 作为单位在不同手机上的效果，见下图。（图片来自[android developer guide](http://developer.android.com/guide/practices/screens_support.html)，下同）。
-    
+
 
 ![img](https://images0.cnblogs.com/i/1804/201407/012206531991719.png)
 
@@ -98,7 +98,7 @@ dpi 是像素密度，指的是在**系统软件上指定**的单位尺寸的像
 
 大家买手机的时候，往往会听到另一个叫 ppi 的参数，这个在手机屏幕中指的也是像素密度，但是这个是物理上的概念，它是客观存在的不会改变。dpi 是软件参考了物理像素密度后，人为指定的一个值，这样保证了某一个区间内的物理像素密度在软件上都使用同一个值。这样会有利于我们的 UI 适配。
 
-![1559098483059](C:\Users\002034\AppData\Roaming\Typora\typora-user-images\1559098483059.png)
+![1559098483059](https://github.com/hgncxzy/AndroidNote/blob/master/images/Android适配_img_1.png)
 
 Android 推荐使用 dp 作为尺寸单位来适配 UI。理由是 ，dp 指的是设备独立像素密度，以 dp 为尺寸单位的控件，在不同分辨率和尺寸的手机上代表了不同的真实像素。根据上面的概念，我们都知道一个公式：
 $$
@@ -154,7 +154,7 @@ x2 = ( 480 / 320 ) * 2 = 3px
 
 ...
 
-![img](https:////upload-images.jianshu.io/upload_images/689802-4f88182107be5a90?imageMogr2/auto-orient/strip%7CimageView2/2/w/964/format/webp)
+![img](https://github.com/hgncxzy/AndroidNote/blob/master/images/Android适配_img2.png)
 
 #### 优点
 
