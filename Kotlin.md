@@ -416,3 +416,9 @@ println(len ?: -1)
 稍有点绕哈，首先，danger?.length返回一个Int?吧，那么?:的作用就是如果len是null，那么就返回-1,否则返回它的值。
 
 整理自 https://www.jianshu.com/p/a63c38ad80a5
+
+## 学习文档
+
+- [kotlin 官方实例](https://play.kotlinlang.org/byExample/overview)
+- [A family of small Kotlin libraries for delightful Android development](https://github.com/LouisCAD/Splitties)
+
