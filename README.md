@@ -8,12 +8,13 @@
 6. [Git ](https://github.com/hgncxzy/AndroidNote/blob/master/Git.md)
 7. [架构](https://github.com/hgncxzy/AndroidNote/blob/master/%E6%9E%B6%E6%9E%84.md)
 8. [Kotlin](https://github.com/hgncxzy/AndroidNote/blob/master/Kotlin.md)
-9. 权限
-10. [RxJava](https://github.com/hgncxzy/AndroidNote/blob/master/RxJava.md)
-11. [适配](https://github.com/hgncxzy/AndroidNote/blob/master/%E9%80%82%E9%85%8D.md)
-12. [数据库](https://github.com/hgncxzy/AndroidNote/blob/master/数据库.md)
-13. [UI](https://github.com/hgncxzy/AndroidNote/blob/master/UI.md)
-14. [性能优化](https://github.com/hgncxzy/AndroidNote/blob/master/%E6%80%A7%E8%83%BD.md)
-15. [XML](https://github.com/hgncxzy/AndroidNote/blob/master/Android中自定义属性attr.xml的格式详解.md)
-16. 
+9. [LeetCode](https://leetcode-cn.com/problemset/algorithms/?difficulty=简单)
+10. 权限
+11. [RxJava](https://github.com/hgncxzy/AndroidNote/blob/master/RxJava.md)
+12. [适配](https://github.com/hgncxzy/AndroidNote/blob/master/%E9%80%82%E9%85%8D.md)
+13. [数据库](https://github.com/hgncxzy/AndroidNote/blob/master/数据库.md)
+14. [UI](https://github.com/hgncxzy/AndroidNote/blob/master/UI.md)
+15. [性能优化](https://github.com/hgncxzy/AndroidNote/blob/master/%E6%80%A7%E8%83%BD.md)
+16. [XML](https://github.com/hgncxzy/AndroidNote/blob/master/Android中自定义属性attr.xml的格式详解.md)
+17. 
 
