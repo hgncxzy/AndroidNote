@@ -10,7 +10,7 @@
 8. [架构](https://github.com/hgncxzy/AndroidNote/blob/master/note/架构.md)
 9. [Kotlin](https://github.com/hgncxzy/AndroidNote/blob/master/note/Kotlin.md)
 10. [LeetCode](https://leetcode-cn.com/problemset/algorithms/?difficulty=简单)
-11. 权限
+11. [权限](https://github.com/hgncxzy/AndroidNote/blob/master/note/权限.md)
 12. [RxJava](https://github.com/hgncxzy/AndroidNote/blob/master/note/RxJava.md)
 13. [适配](https://github.com/hgncxzy/AndroidNote/blob/master/note/适配.md)
 14. [数据库](https://github.com/hgncxzy/AndroidNote/blob/master/note/数据库.md)
