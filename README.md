@@ -1,5 +1,3 @@
-## Android 开发笔记
-
 # App 架构师技能图谱
 
 ## Start
@@ -8,6 +6,7 @@
 
 1. 语言语法
    1. Kotlin/Java/C/C++
+   2. OC/Swift
 2. 工具使用
    1. IDE
    2. 编译测试
