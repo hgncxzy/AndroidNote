@@ -16,7 +16,7 @@
 
 ## 开发工具
 
-- IDE
+- [IDE](https://github.com/hgncxzy/AndroidNote/blob/master/note/IDE.md)
 
 - Android Studio
 - Eclipse
