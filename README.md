@@ -18,7 +18,7 @@
 
 - [IDE](https://github.com/hgncxzy/AndroidNote/blob/master/note/IDE.md)
 
-- Android Studio
+- [Android Studio](https://github.com/hgncxzy/AndroidNote/blob/master/note/Android%20Studio.md)
 - Eclipse
 
 - 调试工具
