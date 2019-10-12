@@ -6,3 +6,6 @@
 - [ ] 整理有用的资料到 github
 - [ ] Android 自定义动画
 - [ ] [看完这篇文章](http://blogs.360.cn/post/Syrian_Electronic_Army.html)
+- [ ] SP 保存一个对象，SP 封装。
+- [ ] 完成 kotlin 学习。
+- [ ] 
