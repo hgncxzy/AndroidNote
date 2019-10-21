@@ -1,6 +1,6 @@
 ### 2019-10-12 添加待办
 
-- [ ] Retrofit + RxJava 结合使用
+- [x] Retrofit + RxJava 结合使用
 - [ ] RxJava 异常流程处理（异常操作符）
 - [ ] 整理理财知识点
 - [ ] 整理有用的资料到 github
