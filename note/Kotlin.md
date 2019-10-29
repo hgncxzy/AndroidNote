@@ -420,6 +420,11 @@ println(len ?: -1)
 ## 学习文档
 
 - [kotlin 官方实例](https://play.kotlinlang.org/byExample/overview)
+
 - [A family of small Kotlin libraries for delightful Android development](https://github.com/LouisCAD/Splitties)
+
 - [Kotlin教程](https://www.runoob.com/kotlin/kotlin-tutorial.html)
 
+- [Kotlin系列之let、with、run、apply、also函数的使用](https://blog.csdn.net/u013064109/article/details/78786646)
+
+  
