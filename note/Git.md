@@ -1,4 +1,24 @@
+### 快速上手
 
+## Environment Setup
+
+### Git Download
+
+```
+Download Git according to Windows, Linux, Mac
+```
+
+### Git global setup
+
+```
+git config --global user.name "Your Name"
+git config --global user.email "youremail@xxx"
+```
+
+### Add public key
+
+- Add your public key
+  Note: [Here](https://help.github.com/enterprise/2.15/user/articles/connecting-to-github-with-ssh) is the document about how to add the ssh key.
 
 ### 提交
 
@@ -145,6 +165,10 @@
  ### 常用 git 命令收藏
 
 <image src="https://github.com/hgncxzy/AndroidNote/blob/master/images/Git常用命令速查表.jpg?raw=true" width="850px"/>
+
+### Git 教程
+
+- https://www.liaoxuefeng.com/wiki/896043488029600
 
  
 
