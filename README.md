@@ -17,6 +17,27 @@
 15. [UI](https://github.com/hgncxzy/AndroidNote/blob/master/note/UI.md)
 16. [性能优化](https://github.com/hgncxzy/AndroidNote/blob/master/note/性能.md)
 17. [XML](https://github.com/hgncxzy/AndroidNote/blob/master/note/Android中自定义属性attr.xml的格式详解.md)
+18. 字符串处理
+19. 环境配置
+20. 数组处理
+21. Java 回调机制
+22. 时间日期处理
+23. 文件操作
+24. 图片
+25. TextView
+26. 虚拟键盘
+27. 按键
+28. EditText
+29. GridView
+30. Fragment
+31. NDK
+32. 系统返回、退出操作等
+33. ListView
+34. ADB
+35. 通用工具类和方法
+36. Activity
+37. SQLite
+38. 
 
 
 
