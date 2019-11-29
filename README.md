@@ -24,7 +24,7 @@
 22. [时间日期处理](https://github.com/hgncxzy/AndroidNote/blob/master/note/时间日期处理/时间和日期处理.md)
 23. [文件操作](https://github.com/hgncxzy/AndroidNote/blob/master/note/文件操作/文件操作.md)
 24. [图片相关](https://github.com/hgncxzy/AndroidNote/blob/master/note/图片相关/图片相关.md)
-25. TextView
+25. [TextView](https://github.com/hgncxzy/AndroidNote/blob/master/note/TextView/TextView.md)
 26. 虚拟键盘
 27. 按键
 28. EditText
