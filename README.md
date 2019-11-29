@@ -17,7 +17,7 @@
 15. [UI](https://github.com/hgncxzy/AndroidNote/blob/master/note/UI.md)
 16. [性能优化](https://github.com/hgncxzy/AndroidNote/blob/master/note/性能.md)
 17. [XML](https://github.com/hgncxzy/AndroidNote/blob/master/note/Android中自定义属性attr.xml的格式详解.md)
-18. 字符串处理
+18. [字符串处理](https://github.com/hgncxzy/AndroidNote/blob/master/note/字符串处理/字符串处理.md)
 19. 环境配置
 20. 数组处理
 21. Java 回调机制
