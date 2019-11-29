@@ -28,10 +28,9 @@
 26. [虚拟键盘](https://github.com/hgncxzy/AndroidNote/blob/master/note/虚拟键盘/虚拟键盘.md)
 27. [系统按键相关](https://github.com/hgncxzy/AndroidNote/blob/master/note/系统按键相关/按键.md)
 28. [EditText](https://github.com/hgncxzy/AndroidNote/blob/master/note/EditText/EditText.md)
-29. GridView
+29. [GridView](https://github.com/hgncxzy/AndroidNote/blob/master/note/GridView/GridView.md)
 30. Fragment
 31. NDK
-32. 系统返回、退出操作等
 33. ListView
 34. ADB
 35. 通用工具类和方法
