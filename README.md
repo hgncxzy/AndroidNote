@@ -22,8 +22,8 @@
 20. [数组处理](https://github.com/hgncxzy/AndroidNote/blob/master/note/数组处理/数组处理.md)
 21. [Java 回调机制](https://github.com/hgncxzy/AndroidNote/blob/master/note/回调机制/Java回调.md)
 22. [时间日期处理](https://github.com/hgncxzy/AndroidNote/blob/master/note/时间日期处理/时间和日期处理.md)
-23. 文件操作
-24. 图片
+23. [文件操作](https://github.com/hgncxzy/AndroidNote/blob/master/note/文件操作/文件操作.md)
+24. 图片相关
 25. TextView
 26. 虚拟键盘
 27. 按键
