@@ -32,8 +32,8 @@
 30. [Fragment](https://github.com/hgncxzy/AndroidNote/blob/master/note/Fragment/Fragment.md)
 31. NDK
 33. [ListView](https://github.com/hgncxzy/AndroidNote/blob/master/note/ListView/ListView.md)
-34. ADB
-35. 通用工具类和方法
+34. [ADB](https://github.com/hgncxzy/AndroidNote/blob/master/note/ADB.md)
+35. [通用工具类和方法](https://github.com/hgncxzy/AndroidUtils)
 36. Activity
 37. SQLite
 38. 
