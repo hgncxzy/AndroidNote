@@ -168,7 +168,8 @@ git config --global user.email "youremail@xxx"
 
 ### Git 教程
 
-- https://www.liaoxuefeng.com/wiki/896043488029600
+- [廖雪峰 Git 教程](https://www.liaoxuefeng.com/wiki/896043488029600)
+- [Git 飞行规则](https://github.com/k88hudson/git-flight-rules/blob/master/README_zh-CN.md)
 
  
 

@@ -3,6 +3,7 @@
 1. [给文本加下划线](#给文本加下划线)
 2. [设置文本可垂直滚动](#滚动)
 3. [更新文字时自动滚动到最后一行](#更新文字时自动滚动到最后一行)
+4. [改变局部文字的颜色](#改变局部文字颜色)
 
 ## <a id = "给文本加下划线">给文本加下划线</a>
 
@@ -98,3 +99,19 @@ mTextView.setMovementMethod(new ScrollingMovementMethod());
    ```
 
    参考地址[实现TextView的垂直滚动，更新文字时自动滚动到最后一行](https://blog.csdn.net/benbenxiongyuan/article/details/53454146)
+
+## <a id = "改变局部文字颜色">改变局部文字颜色</a>
+
+```kotlin
+fun setTvColor(text: String, start: Int, tv: TextView, colorText: String) {
+        val spannableString = SpannableString(text)
+        spannableString.setSpan(
+            ForegroundColorSpan(parseColor(colorText)),
+            start,
+            spannableString.length,
+            Spanned.SPAN_EXCLUSIVE_EXCLUSIVE
+        )
+        tv.text = spannableString
+ }
+```
+
