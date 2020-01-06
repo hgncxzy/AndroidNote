@@ -4,7 +4,7 @@
 2. [Android 教程](https://www.runoob.com/w3cnote/android-tutorial-intro.html)
 3. [Android 新特性](https://github.com/hgncxzy/AndroidNote/tree/master/note/Android版本与新特性)
 4. [测试](https://github.com/hgncxzy/AndroidNote/blob/master/note/测试.md)
-5. [打包](https://github.com/hgncxzy/AndroidNote/blob/master/note/打包.md)
+5. [打包](https://github.com/hgncxzy/AndroidNote/blob/master/note/打包/打包.md)
 6. [Git ](https://github.com/hgncxzy/AndroidNote/blob/master/note/Git.md)
 7. [绘图](https://github.com/hgncxzy/AndroidNote/blob/master/note/绘图.md)
 8. [架构](https://github.com/hgncxzy/AndroidNote/blob/master/note/架构.md)
