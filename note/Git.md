@@ -20,6 +20,16 @@ git config --global user.email "youremail@xxx"
 - Add your public key
   Note: [Here](https://help.github.com/enterprise/2.15/user/articles/connecting-to-github-with-ssh) is the document about how to add the ssh key.
 
+####  **删除项目的 git 信息**
+
+进入项目根目录，打开 git 客户端，执行如下命令
+
+```
+rm -rf .git
+```
+
+
+
 ### 提交
 
 - #### git 提交流程
