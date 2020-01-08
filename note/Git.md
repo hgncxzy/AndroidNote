@@ -125,7 +125,7 @@ rm -rf .git
 
   - **克隆远程仓库**
 
-    git clone git@git.fcbox.com:IB/ITG/qiniu-log-helper.git
+    git clone 仓库地址
 
     cd qiniu-log-helper
 
@@ -143,7 +143,7 @@ rm -rf .git
 
     git init
 
-    git remote add origin git@git.fcbox.com:IB/ITG/qiniu-log-helper.git
+    git remote add origin 仓库地址
 
     git add .
 
