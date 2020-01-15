@@ -45,6 +45,8 @@
 43. [组件化](https://github.com/hgncxzy/AndroidNote/blob/master/note/组件化/组件化.md)
 44. [算法](https://github.com/hgncxzy/AndroidNote/blob/master/note/算法/算法.md)
 45. [网络请求](https://github.com/hgncxzy/AndroidNote/blob/master/note/网络请求/网络请求.md)
+46. [源码demo](https://github.com/hgncxzy/AndroidNote/blob/master/note/源码demo/源码demo.md)
+47. [动画](https://github.com/hgncxzy/AndroidNote/blob/master/note/动画/动画.md)
 
 
 
