@@ -38,7 +38,10 @@
 36. [通用工具类和方法](https://github.com/hgncxzy/AndroidUtils)
 37. [Activity](https://github.com/hgncxzy/AndroidNote/tree/master/note/Activity)
 38. [SQLite](https://github.com/hgncxzy/AndroidNote/blob/master/note/SQLite/SQLite.md)
-39. 
+39. [相机]
+40. [视频播放]()
+41. [RecyclerView]
+42. [进程保活]()
 
 
 
