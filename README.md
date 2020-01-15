@@ -38,10 +38,10 @@
 36. [通用工具类和方法](https://github.com/hgncxzy/AndroidUtils)
 37. [Activity](https://github.com/hgncxzy/AndroidNote/tree/master/note/Activity)
 38. [SQLite](https://github.com/hgncxzy/AndroidNote/blob/master/note/SQLite/SQLite.md)
-39. [相机]
-40. [视频播放]()
-41. [RecyclerView]
-42. [进程保活]()
+39. [相机](https://github.com/hgncxzy/AndroidNote/blob/master/note/相机/相机.md)
+40. [视频播放](https://github.com/hgncxzy/AndroidNote/blob/master/note/视频播放/视频播放.md)
+41. [RecyclerView](https://github.com/hgncxzy/AndroidNote/blob/master/note/RecyclerView/RecyclerView.md)
+42. [进程保活](https://github.com/hgncxzy/AndroidNote/blob/master/note/进程保活/进程保活.md)
 
 
 
