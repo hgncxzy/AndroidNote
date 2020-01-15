@@ -14,7 +14,6 @@
 12. [权限](https://github.com/hgncxzy/AndroidNote/blob/master/note/权限.md)
 13. [RxJava](https://github.com/hgncxzy/AndroidNote/blob/master/note/RxJava.md)
 14. [适配](https://github.com/hgncxzy/AndroidNote/blob/master/note/适配.md)
-15. [数据库](https://github.com/hgncxzy/AndroidNote/blob/master/note/数据库.md)
 16. [UI](https://github.com/hgncxzy/AndroidNote/blob/master/note/UI.md)
 17. [性能优化](https://github.com/hgncxzy/AndroidNote/blob/master/note/性能.md)
 18. [XML](https://github.com/hgncxzy/AndroidNote/blob/master/note/Android中自定义属性attr.xml的格式详解.md)
@@ -42,6 +41,10 @@
 40. [视频播放](https://github.com/hgncxzy/AndroidNote/blob/master/note/视频播放/视频播放.md)
 41. [RecyclerView](https://github.com/hgncxzy/AndroidNote/blob/master/note/RecyclerView/RecyclerView.md)
 42. [进程保活](https://github.com/hgncxzy/AndroidNote/blob/master/note/进程保活/进程保活.md)
+42. [自动化工具](https://github.com/hgncxzy/AndroidNote/blob/master/note/自动化工具/自动化工具.md)
+43. [组件化](https://github.com/hgncxzy/AndroidNote/blob/master/note/组件化/组件化.md)
+44. [算法](https://github.com/hgncxzy/AndroidNote/blob/master/note/算法/算法.md)
+45. [网络请求](https://github.com/hgncxzy/AndroidNote/blob/master/note/网络请求/网络请求.md)
 
 
 
