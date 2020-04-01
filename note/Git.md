@@ -168,9 +168,13 @@ rm -rf .git
 - ### **打  tag  步骤**
 
 
-1. master修改完毕后，在网页上创建merge request，记住是从master到production。
-
-2. merge后，将production拉取到本地分支，然后打包，打tag(打 tag 在网页端操作)
+1. master修改完毕后（包括 changelog.md 文档的变更），在网页上创建merge request，记住是从master到production。
+2. 切换到 production 分支，执行 git merge master 命令。
+3. 再执行 git push 命令。
+4. 执行了 merge 和 push 命令后，查看网页端 merge 状态是否变更为 merged
+5. 如果已经变更，在 production 分支打包
+6. 在网页端打tag，引用在第五步打好的包。
+7. 在 production 分支 fetch/rebase ，拉取刚刚打的 tag 信息。
 
  ### 常用 git 命令收藏
 
