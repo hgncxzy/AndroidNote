@@ -1,6 +1,6 @@
 ### 全局设置 - Git global setup
 
-```bash
+```java
 git config --global user.name "Your Name"
 git config --global user.email "youremail@xxx"
 ```
@@ -14,13 +14,13 @@ git config --global user.email "youremail@xxx"
 
 进入项目根目录，打开 git 客户端，执行如下命令
 
-```bash
+```java
 rm -rf .git
 ```
 
 ### 提交 - Git 通过提交流程
 
-```bash
+```java
 Git add .
 Git commit
 Git fetch
@@ -36,7 +36,7 @@ git rebase --continue
 
 ### 提交 - 提交 Git 项目到新的 Git 地址（推荐两种方式）
 
-```bash
+```java
 1. 修改命令 
 git remote set-url origin [url] 
 例如：Git remote set-url origin gitlab@gitlab.chumob.com:PHP/hasoffer.git
@@ -49,7 +49,7 @@ git remote add origin [url]
 
 Commit message 格式，注意冒号后面有空格
 
-```html
+```java
 <type>: <subject>
 type
 用于说明 commit 的类别，只允许使用下面 7 个标识，也可以自己在配置文件中更改或者扩展。
@@ -70,7 +70,7 @@ subject是 commit 目的的简短描述，不能超过 50 个字符，且结尾�
 
  ### 分支 - 开辟分支
 
-```bash
+```java
 eg：开辟分支 issue-10
 1.创建分支 git checkout -b issue-10 origin/master
 2.更改代码
@@ -83,7 +83,7 @@ eg：开辟分支 issue-10
 
 ### 分支 - 合并分支
 
-```bash
+```java
 eg：将分支 issue-10 合并到分支 origin/master 上面:
 1.检出 issue-10 到本地 git checkout issue-10
 2.将 issue-10 rebase 到 origin/master     git rebase origin/master
@@ -103,7 +103,7 @@ eg：将分支 issue-10 合并到分支 origin/master 上面:
 
 ### 仓库 - 克隆远程仓库
 
-```bash
+```java
 git clone 仓库地址
 cd qiniu-log-helper
 touch README.md
@@ -114,7 +114,7 @@ git push -u origin master
 
 ### 仓库- 将本地项目绑定远程仓库
 
-```bash
+```java
 cd existing_folder
 git init
 git remote add origin 仓库地址
@@ -132,7 +132,7 @@ https://www.cnblogs.com/smfx1314/p/8426115.html
 
 ### Tag - 打  tag  步骤
 
-```bash
+```java
 1. master修改完毕后（包括 changelog.md 文档的变更），在网页上创建merge request，记住是从master到production。
 2. 切换到 production 分支，执行 git merge master 命令。
 3. 再执行 git push 命令。
