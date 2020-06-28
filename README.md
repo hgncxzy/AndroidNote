@@ -1,6 +1,6 @@
 # Work Note
 
-1. [git 项目导航](#)
+1. [git 项目导航](https://github.com/hgncxzy/AndroidNote/blob/master/git_navigation.md)
 2. [App 更新](https://github.com/hgncxzy/AndroidNote/blob/master/note/App更新.md)
 3. [Android 教程](https://www.runoob.com/w3cnote/android-tutorial-intro.html)
 4. [Android 新特性](https://github.com/hgncxzy/AndroidNote/tree/master/note/Android版本与新特性)
