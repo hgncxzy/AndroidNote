@@ -144,7 +144,26 @@ https://www.cnblogs.com/smfx1314/p/8426115.html
 
 ### 常用 git 命令收藏
 
-<image src="https://github.com/hgncxzy/AndroidNote/blob/master/images/Git常用命令速查表.jpg?raw=true" width="850px"/>
+<image src="https://github.com/hgncxzy/AndroidNote/raw/master/images/Git常用命令速查表.jpg?raw=true" width="850px"/>
+
+### 注释 - 修改已经 commit 的注释内容
+
+```java
+两种情况：
+1. 已经将代码push到远程仓库
+2. 还没将代码push到远程仓库，还在本地的仓库中
+
+代码还在本地 -- 修改最后一次注释：（参考 https://www.jianshu.com/p/098d85a58bf1）
+
+1. git commit --amend
+2. 出现有注释的界面（你的注释应该显示在第一行）， 输入i进入修改模式，进行编辑修改
+3. 修改好注释后，按 Esc键 退出编辑模式，输入:wq 保存并退出，此时已经修改完成
+4. 修改完成后，输入 git rebase --continue
+
+代码已经 push 到远程仓库（参考 https://www.jianshu.com/p/098d85a58bf1）
+```
+
+
 
 ### Git 教程
 
