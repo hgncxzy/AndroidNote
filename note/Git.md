@@ -228,6 +228,7 @@ https://www.cnblogs.com/smfx1314/p/8426115.html
 
 - [廖雪峰 Git 教程](https://www.liaoxuefeng.com/wiki/896043488029600)
 - [Git 飞行规则](https://github.com/k88hudson/git-flight-rules/blob/master/README_zh-CN.md)
+- [Git 使用规范流程](http://www.ruanyifeng.com/blog/2015/08/git-use-process.html)
 
  
 
