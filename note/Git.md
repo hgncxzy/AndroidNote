@@ -136,7 +136,10 @@ git commit
 git push
 ```
 
+### 6. 忽略某些文件再提交
 
+git update-index --assume-unchanged .idea/misc.xml
+如果有些配置文件每次都会被更改，而 git push 的时候很容易提交的，可以使用类似上面的配置。
 
 ## Git 分支
 
@@ -172,6 +175,10 @@ eg：将分支 issue-10 合并到分支 origin/master 上面:
 ### 4.  提交本地代码到新分支
 
 <https://blog.csdn.net/a19891024/article/details/54138029>
+
+### 5. 本地分支关联远程分支
+
+https://www.cnblogs.com/zhou-chao/p/7678899.html
 
 ## Git 仓库
 
