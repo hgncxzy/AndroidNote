@@ -62,7 +62,6 @@
 60. [语言切换](https://github.com/hgncxzy/MultiLanguageSwitch)
 61. [扫描](https://github.com/hgncxzy/QRCodeScanDemo)
 62. [Android设备信息](https://github.com/hgncxzy/AndroidDeviceInfo)
-63. [其他](https://github.com/hgncxzy/sure)
 
 # Android App Dev Skills
 
