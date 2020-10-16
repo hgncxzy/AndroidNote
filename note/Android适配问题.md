@@ -301,3 +301,8 @@ dpi 的获取方式，系统已经提供了
 2. [基本概念](https://www.cnblogs.com/JLZT1223/p/6784449.html)
 3. [今日头条屏幕适配方案终极版正式发布](https://juejin.im/post/5bce688e6fb9a05cf715d1c2)
 4. [AndroidAutoSize 源码](https://github.com/JessYanCoding/AndroidAutoSize)
+
+## 其他资料
+
+1. [Android UI适配方案](https://github.com/hgncxzy/dimens_sw)
+2. 
