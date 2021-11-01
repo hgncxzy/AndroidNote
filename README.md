@@ -83,7 +83,7 @@
 14. [AndroidJs](https://github.com/hgncxzy/AndroidJs)
 15. [语言切换](https://github.com/hgncxzy/MultiLanguageSwitch)
 16. [进程保活](https://github.com/hgncxzy/AndroidNote/blob/master/note/进程保活/进程保活.md)
-17. 串口通信
+17. [串口通信](https://github.com/Acccord/AndroidSerialPort)
 
 ## Android 优化
 
