@@ -2,7 +2,7 @@
 
 查看我的这个工程，就足够了。
 
-- [https://github.com/hgncxzy/AndroidUI-Samples](AndroidUI-Samples)
+- https://github.com/hgncxzy/AndroidUI-Samples
 
 - [Android 自定义表盘控件](https://github.com/hgncxzy/AndroidCustomDialView)
 
@@ -32,6 +32,6 @@
 
   popwindow 的基本实现和用法
 
-  
+- https://github.com/hgncxzy/loadManager
 
-  
+  一个用于方便展示UI 加载中、网络超时、服务器错误、空数据等状态管理的工具库。
