@@ -14,5 +14,7 @@
 
   apk 下载后调用系统安装器安装以及卸载功能
 
+- https://github.com/hgncxzy/SysInstaller
 
+  系统安装器，需要有系统签名，通过该系统安装器可以实现 App 升级，且升级后拉起第三方 App。
 
