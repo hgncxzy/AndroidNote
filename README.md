@@ -85,6 +85,7 @@
 16. [进程保活](https://github.com/hgncxzy/AndroidNote/blob/master/note/进程保活/进程保活.md)
 17. [串口通信](https://github.com/Acccord/AndroidSerialPort)
 18. [跨进程通信](https://github.com/hgncxzy/AndroidNote/blob/master/note/跨进程通信.md)
+19. [日志](https://github.com/hgncxzy/log)
 
 ## Android 优化
 
