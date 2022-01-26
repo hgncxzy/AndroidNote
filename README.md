@@ -67,7 +67,7 @@
 
 ## Android 常用功能
 
-1. [架构](https://github.com/hgncxzy/AndroidNote/blob/master/note/架构.md)
+1. [架构&jetpack](https://github.com/hgncxzy/AndroidNote/blob/master/note/架构.md)
 2. [App 更新&安装](https://github.com/hgncxzy/AndroidNote/blob/master/note/App更新.md)
 3. [打包](https://github.com/hgncxzy/AndroidNote/blob/master/note/打包/打包.md)
 4. [权限](https://github.com/hgncxzy/AndroidNote/blob/master/note/权限.md)
